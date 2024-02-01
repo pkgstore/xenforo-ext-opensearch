@@ -4,8 +4,8 @@
   "description": "(ext_167e279a)",
   "version_id": 1000870,
   "version_string": "1.0.8",
-  "dev": "iHub TO",
-  "dev_url": "https://ihub.to/",
+  "dev": "Kai Kimera",
+  "dev_url": "https://kai.kim/",
   "support_url": "https://github.com/pkgstore/xenforo-ext-opensearch/issues",
   "require": {
     "XF": [
